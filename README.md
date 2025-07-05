@@ -1,2 +1,1 @@
-# indovcs
-indovcs
+# [indovcs](https://indovcs.pages.dev)
